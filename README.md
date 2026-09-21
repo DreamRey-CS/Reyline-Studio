@@ -1,4 +1,4 @@
-# TubeCut Studio
+# Reyline Studio
 
 TubeCut Studio is a Windows desktop video editor focused on fast timeline
 editing, local media processing, subtitles, effects, and hardware-accelerated
@@ -7,11 +7,11 @@ export.
 ## Download
 
 Download the latest Windows installer from the
-[Releases](https://github.com/DreamRey-CS/TubeCut-Studio/releases/latest) page.
+[Releases](https://github.com/DreamRey-CS/Reyline-Studio/releases/latest) page.
 
 ## Updates
 
-TubeCut Studio checks for signed updates automatically. You can also check
+Reyline Studio checks for signed updates automatically. You can also check
 manually from **Settings > General > Check for updates**.
 
 Every update is cryptographically signed. The application rejects packages
@@ -32,6 +32,6 @@ Do not install packages redistributed by third parties.
 ## Support
 
 For bug reports and feature requests, use the
-[Issues](https://github.com/DreamRey-CS/TubeCut-Studio/issues) page.
+[Issues](https://github.com/DreamRey-CS/Reyline-Studio/issues) page.
 
 Copyright (c) 2026 TubeCut Studio. All rights reserved.
