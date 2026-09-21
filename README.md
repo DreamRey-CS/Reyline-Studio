@@ -34,4 +34,4 @@ Do not install packages redistributed by third parties.
 For bug reports and feature requests, use the
 [Issues](https://github.com/DreamRey-CS/Reyline-Studio/issues) page.
 
-Copyright (c) 2026 TubeCut Studio. All rights reserved.
+Copyright (c) 2026 Reyline Studio. All rights reserved.
