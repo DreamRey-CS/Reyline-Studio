@@ -1,6 +1,6 @@
 # Reyline Studio
 
-TubeCut Studio is a Windows desktop video editor focused on fast timeline
+Reyline Studio is a Windows desktop video editor focused on fast timeline
 editing, local media processing, subtitles, effects, and hardware-accelerated
 export.
 
